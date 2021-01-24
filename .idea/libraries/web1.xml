@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="web1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/myJPetStore/web/css/web.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

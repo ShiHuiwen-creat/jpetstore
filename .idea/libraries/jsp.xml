@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jsp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/myJPetStore/out/artifacts/myJPetStore_war_exploded/WEB-INF/jsp/jsp.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
